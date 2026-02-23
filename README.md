@@ -20,17 +20,8 @@ I am Electronics and Computer Science undergrad passionate about learning, build
 
 <br/>  
 
-- 🔭 I’m currently working on expanding my skills in full-stack development and AI integration.  
-  
-
-- 👯  I’m looking to collaborate on innovative tech projects that challenge me to grow.  
-  
-
-- 🤝 I’m looking for help with refining best practices in system design and scalable architecture.
-  
-  
-
-- ⚡Fun fact: I never say no to a good cup of coffee and a late-night conversation about the universe.  
+- I’m currently focused on expanding my expertise in full-stack development and AI integration, while actively seeking opportunities to collaborate on innovative and challenging tech projects that push my skills further. At the same time, I’m looking to deepen my understanding of best practices in system design and scalable architecture, aiming to build efficient, robust, and production-ready applications.
+   
   
 
 <br/>  
