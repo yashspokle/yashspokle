@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hey 👋, I'm Yash Pokle!
+# Yash Pokle!
 
 **Electronics & Computer Science Undergrad · Full-Stack & AI Enthusiast**
 
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashspokle)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashpokle)
-[![Instagram](https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yashpokle_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashspokle)
+[![Instagram](https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yashhpokle)
 
 </div>
 
