@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yash Pokle!
+# Yash Pokle
 
 **Electronics & Computer Science Undergrad · Full-Stack & AI Enthusiast**
 
