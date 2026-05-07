@@ -27,6 +27,5 @@ Electronics & CS undergrad passionate about building production-ready full-stack
 ![](https://github-profile-trophy.vercel.app/?username=yashspokle&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=yashspokle&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
