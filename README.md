@@ -2,17 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yash+👋;🚀Seeking+contributions+%26+learning+tech+%F0%9F%9A%80" alt="Typing Animation" />
 </h1>
 
-Web Developer
-Have built projects with **Next.js, React, JavaScript, Node.js, Python, Java**  
-Seeking open source contributions alongside learning other technologies
+<h3 align="center">Web Developer & Open Source Contributor</h3>
+
+<p align="center">
+Have built projects with <b>Next.js, React, JavaScript, Node.js, Python, Java</b><br/>
+Seeking open source contributions alongside learning new technologies 🚀
+</p>
 
 ---
 
 ## ⚡ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,nodejs,python,java,mongodb,mysql,arduino)](https://skillicons.dev)
-
----
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,js,nodejs,python,java,mongodb,mysql,arduino" />
+  </a>
+</p>
 
 ---
 
@@ -25,24 +30,18 @@ Seeking open source contributions alongside learning other technologies
 
 ---
 
-## 🐍 Watch my contributions get eaten by a snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashspokle/yashspokle/output/github-snake-dark.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashspokle/yashspokle/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yashspokle/yashspokle/output/github-snake.svg" />
-</picture>
-
----
-
-
-
----
-
 ## 🎯 Current Focus
 
-- Seeking open source contributions alongside learning other technologies
+- Open Source Contributions
+- Backend Development
+- Learning New Technologies
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yashspokle)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yashspokle">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
