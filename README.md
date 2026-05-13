@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yash+👋;🚀Seeking+contributions+%26+learning+tech+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yash+; Seeking+contributions+%26+learning+tech+%F0%9F%9A%80" alt="Typing Animation" />
 </h1>
 
 <h3 align="center">Web Developer & Open Source Contributor</h3>
@@ -11,7 +11,7 @@ Seeking open source contributions alongside learning new technologies 🚀
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +21,7 @@ Seeking open source contributions alongside learning new technologies 🚀
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashspokle&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
@@ -30,7 +30,7 @@ Seeking open source contributions alongside learning new technologies 🚀
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Open Source Contributions
 - Backend Development
@@ -38,7 +38,7 @@ Seeking open source contributions alongside learning new technologies 🚀
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/yashspokle">
