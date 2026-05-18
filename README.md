@@ -22,10 +22,6 @@
   <a href="https://github.com/yashspokle?tab=followers">
     <img src="https://img.shields.io/github/followers/yashspokle?label=Followers&style=social" alt="followers"/>
   </a>
-
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Learning%20Everyday-success?style=flat-square"/>
 </p>
 
 ---
@@ -119,14 +115,6 @@ Languages:
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashspokle&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 🔥 Current Focus
 
 - 🌱 Learning Advanced Backend Concepts
@@ -137,19 +125,6 @@ Languages:
 
 ---
 
-# 📌 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📖 Description | 🛠️ Tech Stack |
-|------------|----------------|----------------|
-| **Inventory Management System** | Smart inventory tracker with alerts & analytics | React, Node.js, MongoDB |
-| **Grocero AI** | AI-powered grocery management & recipe generation | React, Gemini API |
-| **EduHive** | Educational platform with backend integration | MERN Stack |
-| **Computer Vision Project** | Object detection using webcam & ESP32 | Python, OpenCV |
-| **Resume Builder** | AI-powered resume builder with templates | React, Tailwind |
-
-</div>
 
 ---
 
