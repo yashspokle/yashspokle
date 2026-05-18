@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yash+; Seeking+contributions+%26+learning+tech+%F0%9F%9A%80" alt="Typing Animation" />
-</h1>
+<h1>Yash Pokle</h1>
 
 <h3 align="center">Web Developer & Open Source Contributor</h3>
 
