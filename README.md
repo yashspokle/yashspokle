@@ -221,10 +221,6 @@ I love building projects that combine:
 
 ---
 
-<h3 align="center">
-⭐️ Thanks for visiting my profile ⭐️
-</h3>
 
-<h4 align="center">
-Made with ❤️ by Yash Pokle
-</h4>
+
+
