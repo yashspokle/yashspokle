@@ -128,25 +128,7 @@ Languages:
 
 ---
 
-# 🧠 Coding Profiles
 
-<p align="center">
-
-<a href="https://github.com/yashspokle">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/yashspokle">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yashpokle277@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -176,25 +158,8 @@ Languages:
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
 
----
-
-# ⚡ Fun Fact
-
-```yaml
-I love building projects that combine:
-  - Web Development 🌐
-  - AI 🤖
-  - Embedded Systems ⚙️
-  - Open Source 🚀
-```
-
----
 
 
 
