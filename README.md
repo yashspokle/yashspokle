@@ -8,7 +8,6 @@
   Full Stack Developer • Open Source Contributor 🚀
 </h3>
 
-
 ---
 
 <p align="center">
@@ -45,6 +44,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashspokle&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashspokle&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
 # 🔥 Current Focus
@@ -54,7 +57,8 @@
 - Backend Development
 - Learning New Technologies
 
----![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=tokyonight)
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
