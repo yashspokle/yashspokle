@@ -54,8 +54,7 @@
 - Backend Development
 - Learning New Technologies
 
----
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=tokyonight)
 # 🌐 Connect With Me
 
 <p align="center">
