@@ -35,17 +35,13 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashspokle&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashspokle&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashspokle&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=yashspokle&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashspokle&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashspokle&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashspokle&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
