@@ -51,7 +51,6 @@
 - Open Source Contributions
 - Full Stack Development
 - Backend Development
-- Learning New Technologies
 
 ---
 
