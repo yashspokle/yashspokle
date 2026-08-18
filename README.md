@@ -5,7 +5,7 @@
 <h1 align="center">Yash Pokle</h1>
 
 <h3 align="center">
-  Full Stack Developer • Open Source Contributor 🚀
+  Full Stack Developer • Open Source Contributor 
 </h3>
 
 ---
@@ -22,7 +22,7 @@
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +32,7 @@
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashspokle&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -46,7 +46,7 @@
 
 ---
 
-# 🔥 Current Focus
+#  Currently
 
 - Open Source Contributions
 - Full Stack Development
@@ -54,7 +54,7 @@
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/yashspokle">
@@ -72,7 +72,7 @@
 
 ---
 
-# 💻 Developer Quote
+#  Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
