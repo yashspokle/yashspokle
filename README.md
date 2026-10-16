@@ -10,15 +10,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/yashspokle">
-    <img src="https://komarev.com/ghpvc/?username=yashspokle&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-
-  <a href="https://github.com/yashspokle?tab=followers">
-    <img src="https://img.shields.io/github/followers/yashspokle?label=Followers&style=social" />
-  </a>
-</p>
 
 ---
 
